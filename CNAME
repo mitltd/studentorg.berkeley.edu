@@ -1,1 +1,5 @@
 studentorg.berkeley.edu
+
+ 1 k.edu-servers.net 192.52.178.30 NON-AUTH 30 ms Received 3 Referrals , rcode=NO_ERROR  berkeley.edu. 172800 IN NS adns1.berkeley.edu,berkeley.edu. 172800 IN NS adns2.berkeley.edu,berkeley.edu. 172800 IN NS adns3.berkeley.edu,
+ 2 adns1.berkeley.edu 128.32.136.3 AUTH 64 ms Received 1 Answers , rcode=NO_ERROR  studentorg.berkeley.edu. 10800 IN CNAME mitltd.github.io,
+LookupServer 95ms
